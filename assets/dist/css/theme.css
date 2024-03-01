@@ -1,0 +1,292 @@
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+}
+
+@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+}
+
+@media (min-width: 768px) {
+.mb-md-0 {
+    margin-bottom: 0!important;
+    margin-left: 30px!important;
+}
+}
+
+@media (min-width: 992px) {
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+    padding-right: 25px;
+    word-spacing: 10px;
+    font-family: 'LondrinaSolid' !important;
+    font-size: 20px;
+}
+}
+
+@font-face {
+    font-family: 'LondrinaSolid';
+    src: url('https://snackferret-studio-website.pages.dev/assets/fonts/LondrinaSolid-Light.ttf');
+}
+
+.bg-black {
+        background: #000000;
+        text-align: center;
+      }
+
+.bg-team {
+        text-align: center;
+      }
+
+.bg-cover {
+        background-image: url("https://cdn.furrys.org/snackferret.studio/Concrete-Background_1920-min.png");
+        text-align: center;
+      }
+
+.fs-5 {
+      font-size: 1rem!important;
+      font-weight: 300;
+      color: #FFFFFF;
+    }
+
+.my-cover {
+    margin-top: -1.5rem!important;
+    padding-bottom: 20rem!important;
+    vertical-align: middle;
+}
+
+.bg-ribbon {
+        background: #FFFFFF;
+        text-align: center;
+        color: white;
+
+}
+
+.bg-ribbon-dark {
+        background: #212529 !important;
+        text-align: center;
+        color: white;
+
+}
+
+.bg-ribbon-footer {
+        background: #0a0d14 !important;
+        text-align: center;
+        color: white;
+        border-top: 1px solid #3a4553;
+
+}
+
+.table {
+    color: #ffffff;
+  }
+
+.btn-outline-info {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    background-color: #000000;
+}
+
+.bold-link {
+  font-weight: bold;
+  color: white;
+}
+
+.copyright {
+  color: white;
+  text-decoration: none;
+  letter-spacing: .4px;
+  font-size: 14px;
+  font-family: 'LondrinaSolid' !important;
+}
+
+.footer-links {
+  color: white;
+  text-decoration: none;
+  letter-spacing: .4px;
+  font-size: 15px;
+  font-family: 'LondrinaSolid' !important;
+}
+
+.display-5 {
+    font-size: 1.8rem;
+    font-weight: 300;
+    line-height: 1.2;
+    color: white;
+}
+
+.about-text {
+    font-size: 18px;
+    color: black;
+    text-align: left;
+}
+
+.error-text {
+    font-size: 18px;
+    color: black !important;
+    text-align: center;
+}
+
+.centered-titles {
+    text-align: center;
+    color: black;
+}
+
+.centered-text {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+
+.left-titles {
+    font-size: 25px;
+    text-align: left;
+    color: white;
+    font-family: 'LondrinaSolid' !important;
+}
+
+.fancy-title {
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-family: 'LondrinaSolid' !important;
+}
+
+.leadsub-text {
+    text-align: center;
+    color: white;
+    font-family: 'LondrinaSolid' !important;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+.nav {
+    margin: 0 35px;
+}
+
+.fa-lg {
+    letter-spacing: 15px;
+}
+
+.py-5 {
+    padding-top: 6rem!important;
+    padding-bottom: 3rem!important;
+}
+
+.border {
+    background: #212529!important;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #dee2e6!important;
+    padding-top: 1px;
+}
+
+.mx-auto {
+    max-width: 96%;
+    overflow: hidden;
+}
+
+.table-width {
+    max-width: 90%;
+    overflow: hidden;
+}
+
+@media (max-width: 767px) {
+  .table,
+  .table td,
+  .table th {
+    font-size: 12px;
+  }
+}
+
+.list-group-item {
+    text-decoration: none;
+    border: none;
+    background-color: #0a0d14;
+    padding: 0px 0px;
+}
+
+.bg-dark {
+    background-color: #000000 !important;
+    height: 70px;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    background-color: #000000 !important;
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+.navbar>.container, .navbar>.container-fluid, .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl {
+    display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #000000;
+}
+
+.d-flex {
+    padding-left: 20px;
+}
+
+.mb-2 {
+    margin-bottom: .5rem!important;
+    margin-top: .5rem!important;
+    padding-left: 20px;
+}
+
+#cb-cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    border-radius: 0;
+    display: none;
+}
+
+body {
+background-color: #0a0d14 !important;
+}
+
+tbody, td, tfoot, th, thead, tr {
+    padding: 1px!important;
+}
+
+a:link {
+  color: white!important;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red!important;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+ol, ul {
+    padding-left: 2rem;
+    text-align: left;
+}
