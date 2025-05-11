@@ -1,0 +1,15 @@
+Team:
+- Developers: Jonathan Curley - https://fesothe.com
+- Graphics Artist: Jessica Riggs - https://kilynntor.com
+
+Thanks to:
+- Open-source contributors
+- Beta testers
+- Our amazing community
+
+Contact:
+- Website: https://furbrained.com
+- Email: velivian@furbrained.com
+- X: @Fesothe
+
+/* Made with ❤️ and lots of tea */
