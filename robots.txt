@@ -1,0 +1,11 @@
+# Security information can be found at: https://minimalstrap.furbrained.com/.well-known/security.txt
+
+User-agent: *
+Allow: /robots.txt
+Disallow: /*.txt$
+Disallow: /search/
+Disallow: /*.json
+Disallow: /g82md57y034w69tp5qb/
+Allow: /
+
+Sitemap: https://minimalstrap.furbrained.com/sitemaps/sitemap.xml
