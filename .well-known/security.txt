@@ -1,0 +1,8 @@
+# security.txt
+Contact: mailto:security@minimalstrap.furbrained.com
+Contact: https://minimalstrap.furbrained.com/security/
+Acknowledgments: https://minimalstrap.furbrained.com/hall-of-fame/
+Preferred-Languages: en
+Canonical: https://minimalstrap.furbrained.com/.well-known/security.txt
+Policy: https://minimalstrap.furbrained.com/legal/security-policy/
+Hiring: https://minimalstrap.furbrained.com/jobs/
